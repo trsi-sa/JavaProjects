@@ -1,2 +1,2 @@
 # JavaProjects
-  A Repository Containing Open Source Projects in Java, Beginner Level And Average Level And Pro Level.
+مستودع يحتوي على مشاريع مفتوحة المصدر بلغة جافا، مستوى مبتدئ ومتوسط وإحترافي.
